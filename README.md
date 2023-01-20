@@ -35,36 +35,3 @@ sending data over insecure channels.
 
 
 
-# How To Run The Project :
-
-Make Dirctory Crypto_Project : <br/>
-`mkdir Crypto_Project`
-
- <br/>
- 
-Move Inside the Directory:   <br/>
-`cd Crypto_Project`
-
- <br/>
- 
- 
-Clone The Repo: <br/>
-`git clone https://github.com/Ashishkr05/steganography-project`
-
-
- <br/>
- 
-Move Inside The Clone Repo: <br/>
-`cd Implementation-of-securing-data-using-Crypto-and-Stegano`
-
-
- <br/>
- 
-Install all Requirements: <br/>
-`pip install -r requirements.txt` 
-
- <br/>
- 
-Run the web application: <br/>
-`python3 app.py`
-
